@@ -60,6 +60,6 @@
         max="100"
     ></progress>
     <p style="margin: 5px 0 0; font-size: 0.8em; color: #888;">
-        预计完成时间: 2023年12月
+        预计完成时间: 以后再来探索吧
     </p>
 </div>
